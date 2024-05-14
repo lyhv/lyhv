@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Ly Ho - I'm a Web3 developer
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on Web3 Daps
+- 👯 I’m looking to collaborate on Web3 Dapps
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=solidity,rust,js,ts,java,kotlin,nodejs,nextjs,vscode,androidstudio)](https://skillicons.dev)
