@@ -4,7 +4,7 @@ I'm Ly Ho - I'm a Web3 developer
 - 👯 I’m looking to collaborate on Web3 Dapps
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,rust,js,ts,java,kotlin,nodejs,nextjs,vscode,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,rust,js,ts,kotlin)](https://skillicons.dev)
 
 ## 💖 Support the Project
 
