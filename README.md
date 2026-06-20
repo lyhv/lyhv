@@ -1,9 +1,11 @@
 # Hi there 👋
 
-I'm **Ly Ho**, a Web3 Developer specializing in **Solidity Smart Contracts**, **EVM ecosystems**, and **decentralized applications**.
+**Ly Ho** | Web3 Developer
 
-**Tech Stack:** Solidity, TypeScript, JavaScript, Kotlin
+Building decentralized applications and smart contracts across **EVM & Solana ecosystems**.
+
+**Skills:** Solidity, Rust, TypeScript, JavaScript, Kotlin
 
 [![My Skills](https://skillicons.dev/icons?i=solidity,rust,ts,js,kotlin,java)](https://skillicons.dev)
 
-🚀 Open to collaborating on Web3, DeFi, RWA, and blockchain infrastructure projects.
+🚀 Open to Web3, DeFi, RWA, and blockchain infrastructure collaborations.
